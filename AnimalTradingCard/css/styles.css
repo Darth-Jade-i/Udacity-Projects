@@ -1,0 +1,44 @@
+/* add your CSS here */
+.card {
+    width: 320px;
+    border: 0.05px solid black;
+    box-shadow: 10px 5px 5px gray;
+    margin: 20px;
+}
+
+h3 {
+    font: bold 36px Arial, sans-serif;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+img {
+    width: 300px;
+    margin: 10px;
+}
+
+.facts {
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 7.5px;
+}
+
+.quote {
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+    padding: 0%;
+}
+
+.description {
+    font-weight: bold;
+}
+
+a {
+    font: bold 12px Arial, sans-serif;
+    font-style: normal;
+    text-decoration: none;
+ }
